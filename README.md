@@ -1,4 +1,4 @@
-<img src="https://github.com/eofferupp/my-instagram-bio-scraper/raw/main/images/cover.png" alt="Instagram Bios Scraper Cover" />
+<img src="https://github.com/eofferupp/my-instagram-bio-scraper/raw/main/images/coverr.png" alt="Instagram Bios Scraper Cover" />
 
 # 📷✨ My Instagram Bios Scraper 📸🌟 [![GitHub](https://img.shields.io/github/license/eofferupp/my-instagram-bio-scraper?color=blue)](https://img.shields.io/github/license/eofferupp/my-instagram-bio-scraper) [![GitHub stars](https://img.shields.io/github/stars/eofferupp/my-instagram-bio-scraper)](https://github.com/eofferupp/my-instagram-bio-scraper/stargazers)
 
